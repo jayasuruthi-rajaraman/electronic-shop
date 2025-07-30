@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgba(168, 173, 211, 0.733);
+}
+.nav-link{
+    margin: right 10px;
+    margin-left: 10px;
+    color: rgb(201, 18, 18);
+    text-transform: uppercase;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nav-link:hover{
+    color: rgb(18, 7, 124);
+}
+.search{
+    height: 40px;
+    width: 200%;
+    border-radius: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    outline: none;
+    margin-right: -40px;
+    border: 2px solid rgb(187, 22, 22);
+}
